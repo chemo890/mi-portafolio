@@ -13,7 +13,8 @@
 ## Enlaces utiles
 
 -	[Guia oficial de Markdown](https://www.markdownguide.org/)
--	[Mi perfil de GitHub](https://github.com/TU-USUARIO) ## Captura de mi trabajo
+-	[Mi perfil de GitHub](https://github.com/TU-USUARIO) 
+## Captura de mi trabajo
 
 ![Pantalla principal del proyecto](img/Captura.png)
 ## Comandos que mas uso
