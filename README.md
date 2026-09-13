@@ -14,6 +14,7 @@
 
 -	[Guia oficial de Markdown](https://www.markdownguide.org/)
 -	[Mi perfil de GitHub](https://github.com/TU-USUARIO) ## Captura de mi trabajo
+
 ![Pantalla principal del proyecto](img/Captura.png)
 ## Comandos que mas uso
 Para ver el estado del proyecto uso `git status`.
@@ -27,4 +28,6 @@ git push origin main
 | git add | Prepara los cambios |
 | git commit | Guarda la version |
 | git push | Sube los cambios al remoto |
+## Enlace a la guia del proyecto
+- [Guia del proyecto](docs/GUIA.md)
 > Documentar es parte del trabajo, no un extra al final
