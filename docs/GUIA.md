@@ -1,7 +1,7 @@
 
 # Proyecto Tienda TECSUP
 
-![Logotipo institucional de TECSUP](img/Logos.png)
+![Pantalla principal del proyecto](../img/Logo.png)
 
 Para más información, visita el sitio oficial de [TECSUP](https://www.tecsup.edu.pe/).
 

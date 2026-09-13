@@ -13,7 +13,7 @@
 ## Enlaces utiles
 
 -	[Guia oficial de Markdown](https://www.markdownguide.org/)
--	[Mi perfil de GitHub](https://github.com/TU-USUARIO) 
+-	[Mi perfil de GitHub](https://github.com/chemo890) 
 ## Captura de mi trabajo
 
 ![Pantalla principal del proyecto](img/Captura.png)
